@@ -1,0 +1,16 @@
+Library/
+Temp/
+Logs/
+UserSettings/
+obj/
+Build/
+Builds/
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.apk
+*.aab
+*.unitypackage
+*.zip
